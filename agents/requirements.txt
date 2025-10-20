@@ -1,0 +1,4 @@
+# Langgraph dependencies
+langgraph
+pydantic==2.10.6
+typing-extensions==4.15.0
